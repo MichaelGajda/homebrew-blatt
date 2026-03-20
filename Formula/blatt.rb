@@ -1,8 +1,8 @@
 class Blatt < Formula
   desc "PDF statistics for macOS — page counts, document counts, file sizes"
   homepage "https://github.com/MichaelGajda/blatt"
-  url "https://github.com/MichaelGajda/blatt/archive/refs/tags/v1.3.0.tar.gz"
-  sha256 "5031cf09e78d3d5c6941aa37681575e4a5f84f777ccc75f91c94f9a93d6a2723"
+  url "https://github.com/MichaelGajda/blatt/archive/refs/tags/v1.3.1.tar.gz"
+  sha256 "6d5e0046aadf173d9c9367aa300c56e3a6d42211e78208c9de2d5efdd6e5c4ce"
   license "MIT"
 
   depends_on :macos
